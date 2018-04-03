@@ -1,7 +1,3 @@
-# testtecnic
-
-> Test technique Infolegale
-
 ## Build Setup
 
 ``` bash
